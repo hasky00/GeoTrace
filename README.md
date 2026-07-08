@@ -1,10 +1,16 @@
-# GeoTrace
-Open-source toolkit for estimating photo locations when EXIF/GPS metadata is missing, using visual clues, OSINT workflows, and confidence scoring.
+
 # GeoTrace
 
 GeoTrace is an open-source toolkit for estimating where a photo may have been taken when EXIF, GPS, or camera metadata is missing.
 
 It combines metadata inspection, visible-clue extraction, structured OSINT workflows, and confidence-based candidate scoring.
+
+It helps users :
+- inspect available metadata
+- record visible clues
+- organize candidate location
+- score location confident
+- document the reasoning process
 
 ## Why GeoTrace exists
 
